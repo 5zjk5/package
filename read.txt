@@ -1,0 +1,16 @@
+Python 第三方库查询信息网址，可查询各个版本，库信息，近30天下载量
+https://www.pyprapi.top/docs
+
+Python 第三方包 whl 下载网址，基本包含了所有包的信息
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+爬虫：
+爬取第三方包下载网址所有包名，通过包名在查询信息网址爬取包的描述信息，即简介，近 30 天下载量
+保存为 csv
+
+
+
+
+
+
+
